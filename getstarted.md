@@ -76,7 +76,7 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
 .gs-section-02 h3 { 
      color: green }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 40px;
 }
 
@@ -88,8 +88,8 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
 .gs-section-03 h3 { 
      color: purple }
 
-.gs-section-01 p {
-     font-size: 50px;
+.gs-section-03 p {
+     font-size: 80px;
 }
 
 </style>
