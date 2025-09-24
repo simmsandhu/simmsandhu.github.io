@@ -22,6 +22,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
+    - Liquid Table: "liquidtable"
   Author's home: "https://github.com/simmsandhu"
 
 # --- Logo --- #
