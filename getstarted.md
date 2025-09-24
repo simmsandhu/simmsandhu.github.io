@@ -69,3 +69,27 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
 }
 
 </style>
+
+
+<style>
+
+.gs-section-02 h3 { 
+     color: green }
+
+.gs-section-01 p {
+     font-size: 40px;
+}
+
+</style>
+
+
+<style>
+
+.gs-section-03 h3 { 
+     color: purple }
+
+.gs-section-01 p {
+     font-size: 50px;
+}
+
+</style>
